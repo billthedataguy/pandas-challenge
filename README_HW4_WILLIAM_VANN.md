@@ -1,6 +1,6 @@
 # pandas-challenge
 
-William Vann Homework #4 pandas-challenge Jupyter Notebook
+William Vann 
 
 # Two Observable Trends Based on the Data
 
