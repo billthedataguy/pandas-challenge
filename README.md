@@ -1,6 +1,7 @@
 # pandas-challenge
 
-William Vann 
+## William Vann
+## Demonstration of advanced Pandas usage in Python.
 
 # Two Observable Trends Based on the Data
 
